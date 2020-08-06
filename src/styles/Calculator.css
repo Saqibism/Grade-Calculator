@@ -1,0 +1,38 @@
+.calculator {
+  text-align: center;
+  margin: 100px 500px;
+  font-size: xx-large;
+}
+.classEntry {
+  margin: 5%;
+}
+.input {
+  margin: 2%;
+}
+#Header {
+  margin: 50px 200px;
+  align-content: center;
+  align-self: center;
+  text-align: center;
+  font-size: medium;
+}
+
+#Table {
+  margin: 50px 200px;
+  align-content: center;
+  align-self: center;
+  text-align: center;
+  font-size: medium;
+}
+#BtnConsole {
+  margin: 50px 200px;
+  align-content: center;
+  align-self: center;
+  text-align: center;
+  font-size: medium;
+}
+
+.calculatorBtn {
+  margin: 1%;
+  background-color: #4b9cd3 !important;
+}
